@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1431772033 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\titileinfo.cpp
+	"TitleInfo.h"
+	<string.h>
+	<iostream>
+
+1431772251 e:\code\c++ codes\c++课程设计\书店图书管理系统\titleinfo.h
+
+1431771825 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\bookdata.cpp
+	"BookData.h"
+	<iostream>
+	<string.h>
+
+1431771698 e:\code\c++ codes\c++课程设计\书店图书管理系统\bookdata.h
+	"TitleInfo.h"
+	<iostream>
+	<string>
+
+1431500927 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\charrange.cpp
+	"CharRange.h"
+	<string.h>
+	<ctype.h>
+	<iostream>
+
+1431500868 e:\code\c++ codes\c++课程设计\书店图书管理系统\charrange.h
+
+1431791953 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\management.cpp
+	"Management.h"
+	"InputRange.h"
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<iostream>
+
+1431792619 e:\code\c++ codes\c++课程设计\书店图书管理系统\management.h
+	"BookData.h"
+
+1431780147 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\report.cpp
+	"Report.h"
+	"InputRange.h"
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<iostream>
+
+1431792354 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\sale.cpp
+	"Sale.h"
+	"InputRange.h"
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<iostream>
+
+1431512434 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\inputrange.cpp
+	"InputRange.h"
+	<string.h>
+	<ctype.h>
+	<iostream>
+
+1431512442 e:\code\c++ codes\c++课程设计\书店图书管理系统\inputrange.h
+
+1431792331 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\system.cpp
+	"System.h"
+	"InputRange.h"
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<iostream>
+
+1431790217 e:\code\c++ codes\c++课程设计\书店图书管理系统\system.h
+	"BookData.h"
+	"Management.h"
+	"Report.h"
+	"Sale.h"
+	"User.h"
+
+1431768526 e:\code\c++ codes\c++课程设计\书店图书管理系统\report.h
+	"BookData.h"
+
+1431791068 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\main.cpp
+	<string>
+	<iostream>
+	"System.h"
+	<stdlib.h>
+
+1431792446 e:\code\c++ codes\c++课程设计\书店图书管理系统\sale.h
+	"BookData.h"
+
+1431786843 e:\code\c++ codes\c++课程设计\书店图书管理系统\user.h
+
+1431786975 source:e:\code\c++ codes\c++课程设计\书店图书管理系统\user.cpp
+	"User.h"
+	<string.h>
+
+1431771825 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\bookdata.cpp
+	"BookData.h"
+	<iostream>
+	<string.h>
+
+1431792933 e:\code\c++ codes\c++课程设计\南航小型书店管理系统\bookdata.h
+	"TitleInfo.h"
+	<iostream>
+	<string>
+
+1431828942 e:\code\c++ codes\c++课程设计\南航小型书店管理系统\titleinfo.h
+
+1431512434 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\inputrange.cpp
+	"InputRange.h"
+	<string.h>
+	<ctype.h>
+	<iostream>
+
+1431792928 e:\code\c++ codes\c++课程设计\南航小型书店管理系统\inputrange.h
+
+1431791953 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\management.cpp
+	"Management.h"
+	"InputRange.h"
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<iostream>
+
+1431792922 e:\code\c++ codes\c++课程设计\南航小型书店管理系统\management.h
+	"BookData.h"
+
+1431828912 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\report.cpp
+	"Report.h"
+	"InputRange.h"
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<iostream>
+
+1431792915 e:\code\c++ codes\c++课程设计\南航小型书店管理系统\report.h
+	"BookData.h"
+
+1431792354 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\sale.cpp
+	"Sale.h"
+	"InputRange.h"
+	<stdlib.h>
+	<fstream>
+	<string.h>
+	<iostream>
+
+1431792910 e:\code\c++ codes\c++课程设计\南航小型书店管理系统\sale.h
+	"BookData.h"
+
+1431792619 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\system.cpp
+	"System.h"
+	"InputRange.h"
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<iostream>
+
+1431792903 e:\code\c++ codes\c++课程设计\南航小型书店管理系统\system.h
+	"BookData.h"
+	"Management.h"
+	"Report.h"
+	"Sale.h"
+	"User.h"
+
+1431792887 e:\code\c++ codes\c++课程设计\南航小型书店管理系统\user.h
+
+1431772033 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\titileinfo.cpp
+	"TitleInfo.h"
+	<string.h>
+	<iostream>
+
+1431786975 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\user.cpp
+	"User.h"
+	<string.h>
+
+1431792861 source:e:\code\c++ codes\c++课程设计\南航小型书店管理系统\main.cpp
+	<string>
+	<iostream>
+	"System.h"
+	<stdlib.h>
+
